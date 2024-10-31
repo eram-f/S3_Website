@@ -1,4 +1,4 @@
-const apiURL = 'https://al0e0ga8x7.execute-api.eu-north-1.amazonaws.com/1';
+const apiURL = 'https://al0e0ga8x7.execute-api.eu-north-1.amazonaws.com/1/Visitor API';
 
 async function updateVisitorCount() {
   try {
